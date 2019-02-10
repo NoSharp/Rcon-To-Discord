@@ -1,0 +1,14 @@
+discord_token = "xxxx"
+
+timestamp = "%H %M %S %D %m %Y" # %H hours, %M minutes, %S seconds, %D days, %m month, %d day
+target_channel = ""
+command = "?rconHere"
+rank_name = "Admin"
+on_command_success = "Successfully ran command"
+on_command_no_permission = "No permissions"
+
+[server]
+    ip = "IP"
+    rcon_port = "Port"
+    rcon_password = "Password"
+    game_port = "Game_port"
